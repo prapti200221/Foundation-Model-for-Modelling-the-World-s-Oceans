@@ -84,6 +84,6 @@ Please download the processed dataset and place it in the relevant directory bef
 
 ## 4. Final Report
 
-For a detailed explanation of our methodology, data processing techniques, model architectures, and a full analysis of the results, please refer to our final project paper included in this repository.
+For a detailed explanation of our methodology, data processing techniques, model architectures, and a full analysis of the results, please refer to our final project paper included in this repository as ST498_CapstoneProject_Group17.pdf.
 
 ---
